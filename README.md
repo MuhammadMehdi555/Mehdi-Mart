@@ -23,7 +23,7 @@ Mehdi Mart ek simple e-commerce website hai jo PHP, HTML, CSS, aur JavaScript ka
 - Orders aur messages view
 
 ## How to View
-Project ki functionality dekhne ke liye **video link** ka use karein (link baad me add kiya jayega).
+Project ki functionality dekhne ke liye **video link** ka use karein (https://www.linkedin.com/posts/muhammad-mehdi-7a487435a_mehdi-mart-ecommerce-project-frontend-activity-7384766648064421888-B34n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFl5FmwBG0gH4rLFAQEfqtqk_UWTI2EQNXU).
 
 ---
 
