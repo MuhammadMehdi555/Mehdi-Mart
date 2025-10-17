@@ -1,0 +1,2 @@
+ErrorDocument 404 /ecom/404.php
+RewriteEngine On
